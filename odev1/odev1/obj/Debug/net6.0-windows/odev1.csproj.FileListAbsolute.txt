@@ -1,0 +1,16 @@
+C:\Users\Emir\source\repos\odev1\odev1\bin\Debug\net6.0-windows\odev1.exe
+C:\Users\Emir\source\repos\odev1\odev1\bin\Debug\net6.0-windows\odev1.deps.json
+C:\Users\Emir\source\repos\odev1\odev1\bin\Debug\net6.0-windows\odev1.runtimeconfig.json
+C:\Users\Emir\source\repos\odev1\odev1\bin\Debug\net6.0-windows\odev1.dll
+C:\Users\Emir\source\repos\odev1\odev1\bin\Debug\net6.0-windows\odev1.pdb
+C:\Users\Emir\source\repos\odev1\odev1\obj\Debug\net6.0-windows\odev1.Form1.resources
+C:\Users\Emir\source\repos\odev1\odev1\obj\Debug\net6.0-windows\odev1.csproj.GenerateResource.cache
+C:\Users\Emir\source\repos\odev1\odev1\obj\Debug\net6.0-windows\odev1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emir\source\repos\odev1\odev1\obj\Debug\net6.0-windows\odev1.AssemblyInfoInputs.cache
+C:\Users\Emir\source\repos\odev1\odev1\obj\Debug\net6.0-windows\odev1.AssemblyInfo.cs
+C:\Users\Emir\source\repos\odev1\odev1\obj\Debug\net6.0-windows\odev1.csproj.CoreCompileInputs.cache
+C:\Users\Emir\source\repos\odev1\odev1\obj\Debug\net6.0-windows\odev1.dll
+C:\Users\Emir\source\repos\odev1\odev1\obj\Debug\net6.0-windows\refint\odev1.dll
+C:\Users\Emir\source\repos\odev1\odev1\obj\Debug\net6.0-windows\odev1.pdb
+C:\Users\Emir\source\repos\odev1\odev1\obj\Debug\net6.0-windows\odev1.genruntimeconfig.cache
+C:\Users\Emir\source\repos\odev1\odev1\obj\Debug\net6.0-windows\ref\odev1.dll
